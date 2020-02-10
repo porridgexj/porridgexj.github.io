@@ -959,7 +959,7 @@ pre .javascript .function {
   }
 }
 .brand {
-  background: #222;
+  background: #1f4e5a;
   border-bottom: none;
   color: #fff;
   display: inline-block;
@@ -979,7 +979,7 @@ pre .javascript .function {
   vertical-align: top;
 }
 .site-subtitle {
-  color: #999;
+  color: #fff;
   font-size: 0.8125em;
   margin-top: 10px;
 }
@@ -1160,7 +1160,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #11b1ff;
+  background: #a3ff06;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1497,6 +1497,16 @@ pre .javascript .function {
     left: 20px;
     opacity: 0.8;
   }
+}
+.reading-progress-bar {
+  background: #37c6c0;
+  display: block;
+  height: 1px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 0;
+  z-index: 1500;
 }
 .post-body {
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
@@ -2278,4 +2288,25 @@ embed {
   transition: all 0.4s;
   width: 320px;
   z-index: 1200;
+}
+body {
+  background: url("/images/bgimage.jfif");
+  -moz-background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  top: 0;
+  left: 0;
+  z-index: -2;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+.main-inner {
+  background: #fff;
+  opacity: 0.9;
+  padding-right: 150px;
+  padding-left: 150px;
+}
+.footer-inner {
+  color: #fff;
 }
