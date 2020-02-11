@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>介绍</title>
+    <url>/2020/02/11/intro/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这里接着会有一篇介绍文章</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>推荐</title>
+    <url>/2020/02/10/recommend/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="持续更新中"><a href="#持续更新中" class="headerlink" title="持续更新中"></a>持续更新中</h1><h2 id="廖雪峰的官方网站"><a href="#廖雪峰的官方网站" class="headerlink" title="廖雪峰的官方网站"></a>廖雪峰的官方网站</h2><p><a href="https://www.liaoxuefeng.com/" target="_blank" rel="noopener">https://www.liaoxuefeng.com/</a></p>
+<p>java教程 python教程 MySQL教程 javascript教程 git教程</p>
+<h2 id="菜鸟教程"><a href="#菜鸟教程" class="headerlink" title="菜鸟教程"></a>菜鸟教程</h2><p><a href="https://www.runoob.com/" target="_blank" rel="noopener">https://www.runoob.com/</a></p>
+<p>HTML教程 CSS教程 servlet教程 JSP教程</p>
+<p>这网站啥教程都有</p>
+<h2 id="网易云课堂"><a href="#网易云课堂" class="headerlink" title="网易云课堂"></a>网易云课堂</h2><p><a href="https://study.163.com/course/courseMain.htm?courseId=232007" target="_blank" rel="noopener">https://study.163.com/course/courseMain.htm?courseId=232007</a></p>
+<p>Linux入门基础</p>
+<h4 id="还有浙江大学翁恺的课程："><a href="#还有浙江大学翁恺的课程：" class="headerlink" title="还有浙江大学翁恺的课程："></a>还有浙江大学翁恺的课程：</h4><p>程序设计入门–Java语言<br>java语言程序设计进阶<br>程序设计入门C语言</p>
+]]></content>
+      <categories>
+        <category>推荐</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>留言板</title>
+    <url>/2020/02/10/mboard/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="可以在此处留言"><a href="#可以在此处留言" class="headerlink" title="可以在此处留言"></a>可以在此处留言</h4><p>说啥都行</p>
+]]></content>
+      <categories>
+        <category>留言板</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>今日感想</title>
+    <url>/2020/02/07/fourth/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="想起来了"><a href="#想起来了" class="headerlink" title="想起来了"></a>想起来了</h2><p>啊我应该接着学servlet的<br>转头学了好久的js</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>嗯</title>
+    <url>/2020/02/06/thi/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="饿了"><a href="#饿了" class="headerlink" title="饿了"></a>饿了</h2><p>后续会完善页面<br>会加上评论系统</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>第二篇post</title>
+    <url>/2020/02/06/secpost/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="我新建了第二篇post"><a href="#我新建了第二篇post" class="headerlink" title="我新建了第二篇post"></a>我新建了第二篇post</h4><p>不知道会不会在这里出现</p>
+<h1 id="现在过去了大概二十分钟"><a href="#现在过去了大概二十分钟" class="headerlink" title="现在过去了大概二十分钟"></a>现在过去了大概二十分钟</h1>]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>开始</title>
+    <url>/2020/02/05/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>####Sometimes you play a game even when you know you’re gonna lose. </p>
+<p>####Or sometimes you leave a game even when you know you can win.</p>
+<h1 id="2020-2-6"><a href="#2020-2-6" class="headerlink" title="2020/2/6"></a>2020/2/6</h1><p>porridgexj搭建了</p>
+<p>这个…网站</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+</search>
