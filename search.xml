@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>介绍</title>
+    <url>/2020/02/11/intro/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这里接着会有一篇介绍文章</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+  <entry>
     <title>推荐</title>
     <url>/2020/02/10/recommend/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="持续更新中"><a href="#持续更新中" class="headerlink" title="持续更新中"></a>持续更新中</h1><h2 id="廖雪峰的官方网站"><a href="#廖雪峰的官方网站" class="headerlink" title="廖雪峰的官方网站"></a>廖雪峰的官方网站</h2><p><a href="https://www.liaoxuefeng.com/" target="_blank" rel="noopener">https://www.liaoxuefeng.com/</a></p>
