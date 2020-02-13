@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>java网络工程：实现简单的登录注册</title>
+    <url>/2020/02/13/javalogin/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>最近开始学习servlet相关的知识，跟着教程实现了简单的前后端交互：登录注册功能。</p>
+<p>要实现这个小项目，你需要知道：</p>
+<p><strong>java基础知识以及java面向对象编程</strong></p>
+<p><strong>MySQL增删改查的基本命令，以及如何用java实现</strong></p>
+<p><strong>html, css以及javascript的基础知识</strong></p>
+<p><strong>javaweb项目的基本结构</strong></p>
+<p>需要的软件：<br><strong>MySQL</strong><br><strong>Tomcat</strong><br><strong>Eclipse Jee</strong>或者Myeclipse</p>
+<p>整个教程我都亲自操作过，所以原po有说的不详细的或者有坑的地方我都会指出来。</p>
+<p>下面是分享的教程：</p>
+<p><strong><a href="https://blog.csdn.net/ADjky/article/details/74278903" target="_blank" rel="noopener">javaWeb 简单注册登录(含数据库连接) – （一）页面</a></strong></p>
+<p><strong><a href="https://blog.csdn.net/ADjky/article/details/74332470" target="_blank" rel="noopener">javaWeb 简单注册登录(含数据库连接) – （二） MySQL数据库配置和连接</a></strong></p>
+<h4 id="注意事项1"><a href="#注意事项1" class="headerlink" title="注意事项1"></a>注意事项1</h4><p>其中MySQL可以安装可视化工具Navicat简化对数据库的操作。<br>连接mysql所需要的jar包可以在mysql<strong><a href="https://dev.mysql.com/downloads/connector/j/" target="_blank" rel="noopener">官网</a></strong>下载</p>
+<p><img src="http://q5l52a37o.bkt.clouddn.com/jdbc.png" alt="avatar"><br>MySQL8.0+的版本此处会报错，应该修改为：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">private static String driver &#x3D; &quot;com.mysql.cj.jdbc.Driver&quot;;</span><br><span class="line">private static String url &#x3D; &quot;jdbc:mysql:&#x2F;&#x2F;localhost:3306&#x2F;loginproject?useSSL&#x3D;false&amp;serverTimezone&#x3D;UTC&quot;;</span><br></pre></td></tr></table></figure>
+<p>其中注意修改数据库名称(我这里是loginproject)、端口号、用户名和密码。</p>
+<p><strong><a href="https://blog.csdn.net/ADjky/article/details/74347881" target="_blank" rel="noopener">javaWeb 简单注册登录(含数据库连接) – （三) 实现用户注册请求的响应</a></strong></p>
+<h4 id="注意事项2"><a href="#注意事项2" class="headerlink" title="注意事项2"></a>注意事项2</h4><p>未完待续</p>
+]]></content>
+      <categories>
+        <category>java</category>
+      </categories>
+  </entry>
+  <entry>
     <title>这是介绍</title>
     <url>/2020/02/11/intro/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>某</center>
@@ -34,17 +59,17 @@
       </categories>
   </entry>
   <entry>
-    <title>推荐</title>
+    <title>各类教程推荐</title>
     <url>/2020/02/10/recommend/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="持续更新中"><a href="#持续更新中" class="headerlink" title="持续更新中"></a>持续更新中</h1><h2 id="廖雪峰的官方网站"><a href="#廖雪峰的官方网站" class="headerlink" title="廖雪峰的官方网站"></a>廖雪峰的官方网站</h2><p><a href="https://www.liaoxuefeng.com/" target="_blank" rel="noopener">https://www.liaoxuefeng.com/</a></p>
-<p>java教程 python教程 MySQL教程 javascript教程 git教程</p>
-<h2 id="菜鸟教程"><a href="#菜鸟教程" class="headerlink" title="菜鸟教程"></a>菜鸟教程</h2><p><a href="https://www.runoob.com/" target="_blank" rel="noopener">https://www.runoob.com/</a></p>
-<p>HTML教程 CSS教程 servlet教程 JSP教程</p>
-<p>这网站啥教程都有</p>
-<h2 id="网易云课堂"><a href="#网易云课堂" class="headerlink" title="网易云课堂"></a>网易云课堂</h2><p><a href="https://study.163.com/course/courseMain.htm?courseId=232007" target="_blank" rel="noopener">https://study.163.com/course/courseMain.htm?courseId=232007</a></p>
-<p>Linux入门基础</p>
-<h4 id="还有浙江大学翁恺的课程："><a href="#还有浙江大学翁恺的课程：" class="headerlink" title="还有浙江大学翁恺的课程："></a>还有浙江大学翁恺的课程：</h4><p>程序设计入门–Java语言<br>java语言程序设计进阶<br>程序设计入门C语言</p>
-]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>持续更新中</strong></p>
+<h3 id="学习java"><a href="#学习java" class="headerlink" title="学习java"></a>学习java</h3><p><strong><a href="https://mooc.study.163.com/learn/1000002014?tid=2402969001&_trace_c_p_k2_=f584749a51944472a873d5a28f306530#/learn/announce" target="_blank" rel="noopener">程序设计入门—Java语言</a></strong></p>
+<p><strong><a href="https://mooc.study.163.com/learn/1000004001?tid=2402970001&_trace_c_p_k2_=c4d497296c1b49fb986068d56e0e5af5#/learn/announce" target="_blank" rel="noopener">Java语言程序设计进阶</a>(面向对象编程)</strong></p>
+<p>都是网易云课堂浙江大学翁恺老师的零基础课程，讲的很详细，看完并完成作业就可以基本掌握java的基础知识。</p>
+<h3 id="学习MySQL"><a href="#学习MySQL" class="headerlink" title="学习MySQL"></a>学习MySQL</h3><p><strong><a href="https://www.runoob.com/mysql/mysql-tutorial.html" target="_blank" rel="noopener">菜鸟教程MySQL</a></strong></p>
+<p>菜鸟教程的MySQL安装配置教程比较详细，不过后面的教程比较枯燥， 讲的也不是太详细。可以转到廖雪峰的教程去。</p>
+<p><strong><a href="https://www.liaoxuefeng.com/wiki/1177760294764384" target="_blank" rel="noopener">廖雪峰的官方网站SQL教程</a></strong></p>
+<p>不一定要完全掌握所有的命令，懂得基本的增删改查命令， 之后需要用到了再继续学习。</p>
+<h3 id="学习C"><a href="#学习C" class="headerlink" title="学习C"></a>学习C</h3><h3 id="学习Python"><a href="#学习Python" class="headerlink" title="学习Python"></a>学习Python</h3><h3 id="学习html-css"><a href="#学习html-css" class="headerlink" title="学习html, css"></a>学习html, css</h3><h3 id="学习Git"><a href="#学习Git" class="headerlink" title="学习Git"></a>学习Git</h3><h3 id="学习javascript"><a href="#学习javascript" class="headerlink" title="学习javascript"></a>学习javascript</h3><h3 id="学习Linux"><a href="#学习Linux" class="headerlink" title="学习Linux"></a>学习Linux</h3>]]></content>
       <categories>
         <category>推荐</category>
       </categories>
