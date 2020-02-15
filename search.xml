@@ -25,7 +25,7 @@
 
 <p>配置四个全局变量，使MyContextListener.java这个监听程序可以获取数据库相关信息创建数据库对象<br><img src="http://q5l52a37o.bkt.clouddn.com/xml.png" alt="avatar"></p>
 <p>mysql参数的注意事项详见上面的注意事项1。</p>
-<p>其中有几个小细节，mysql的数据库url直接写入.xml文件是会报错的，原因是其中的 <strong>&amp;</strong> 需要转义成 <strong>&amp;</strong>。<br>上文提供的代码已经改过了，不需要再改。</p>
+<p>其中有几个小细节，mysql的数据库url直接写入.xml文件是会报错的，原因是其中的 <strong>&amp;</strong> 需要转义成 &amp;(去掉中文)amp;。<br>上文提供的代码已经改过了，不需要再改。</p>
 <p>其他.xml需要转义的字符可以参考 <strong><a href="https://blog.csdn.net/ADjky/article/details/74278903" target="_blank" rel="noopener">网站</a></strong></p>
 <h4 id="如何用Tomcat将项目部署到本地服务器上"><a href="#如何用Tomcat将项目部署到本地服务器上" class="headerlink" title="如何用Tomcat将项目部署到本地服务器上:"></a>如何用Tomcat将项目部署到本地服务器上:</h4><p>首先选中下方server标签，若无Tomcat服务器则右键空白区域new一个server。<br><img src="http://q5l52a37o.bkt.clouddn.com/server.png" alt="avatar"><br>接着右键添加好的服务器，选择<strong>Add and Remove</strong>添加项目即可。<br><img src="http://q5l52a37o.bkt.clouddn.com/server2.png" alt="avatar"><br>启动项目之前，确保项目WEB-INF目录下的web.xml中<br><img src="http://q5l52a37o.bkt.clouddn.com/server3.png" alt="avatar"></p>
 <p>第一个页面设置为你想要出现的html页面(优先顺序为从上到下)</p>
@@ -76,14 +76,22 @@
     <title>各类教程推荐</title>
     <url>/2020/02/10/recommend/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>持续更新中</strong></p>
-<h3 id="学习java"><a href="#学习java" class="headerlink" title="学习java"></a>学习java</h3><p><strong><a href="https://mooc.study.163.com/learn/1000002014?tid=2402969001&_trace_c_p_k2_=f584749a51944472a873d5a28f306530#/learn/announce" target="_blank" rel="noopener">程序设计入门—Java语言</a></strong></p>
-<p><strong><a href="https://mooc.study.163.com/learn/1000004001?tid=2402970001&_trace_c_p_k2_=c4d497296c1b49fb986068d56e0e5af5#/learn/announce" target="_blank" rel="noopener">Java语言程序设计进阶</a>(面向对象编程)</strong></p>
+<h1 id="学习java"><a href="#学习java" class="headerlink" title="学习java"></a>学习java</h1><p><strong><a href="https://mooc.study.163.com/learn/1000002014?tid=2402969001&_trace_c_p_k2_=f584749a51944472a873d5a28f306530#/learn/announce" target="_blank" rel="noopener">程序设计入门—Java语言</a></strong></p>
+<p><strong><a href="https://mooc.study.163.com/learn/1000004001?tid=2402970001&_trace_c_p_k2_=c4d497296c1b49fb986068d56e0e5af5#/learn/announce" target="_blank" rel="noopener">Java语言程序设计进阶</a></strong>  (面向对象编程)</p>
 <p>都是网易云课堂浙江大学翁恺老师的零基础课程，讲的很详细，看完并完成作业就可以基本掌握java的基础知识。</p>
-<h3 id="学习MySQL"><a href="#学习MySQL" class="headerlink" title="学习MySQL"></a>学习MySQL</h3><p><strong><a href="https://www.runoob.com/mysql/mysql-tutorial.html" target="_blank" rel="noopener">菜鸟教程MySQL</a></strong></p>
+<h1 id="学习MySQL"><a href="#学习MySQL" class="headerlink" title="学习MySQL"></a>学习MySQL</h1><p><strong><a href="https://www.runoob.com/mysql/mysql-tutorial.html" target="_blank" rel="noopener">菜鸟教程MySQL</a></strong></p>
 <p>菜鸟教程的MySQL安装配置教程比较详细，不过后面的教程比较枯燥， 讲的也不是太详细。可以转到廖雪峰的教程去。</p>
 <p><strong><a href="https://www.liaoxuefeng.com/wiki/1177760294764384" target="_blank" rel="noopener">廖雪峰的官方网站SQL教程</a></strong></p>
 <p>不一定要完全掌握所有的命令，懂得基本的增删改查命令， 之后需要用到了再继续学习。</p>
-<h3 id="学习C"><a href="#学习C" class="headerlink" title="学习C"></a>学习C</h3><h3 id="学习Python"><a href="#学习Python" class="headerlink" title="学习Python"></a>学习Python</h3><h3 id="学习html-css"><a href="#学习html-css" class="headerlink" title="学习html, css"></a>学习html, css</h3><h3 id="学习Git"><a href="#学习Git" class="headerlink" title="学习Git"></a>学习Git</h3><h3 id="学习javascript"><a href="#学习javascript" class="headerlink" title="学习javascript"></a>学习javascript</h3><h3 id="学习Linux"><a href="#学习Linux" class="headerlink" title="学习Linux"></a>学习Linux</h3>]]></content>
+<h1 id="学习C"><a href="#学习C" class="headerlink" title="学习C"></a>学习C</h1><p>网易云课堂浙江大学翁恺老师</p>
+<p><strong><a href="https://mooc.study.163.com/learn/1000002011?tid=2402971000&_trace_c_p_k2_=9d9705bb523644189065407357bd2d18#/learn/announce" target="_blank" rel="noopener">程序设计入门—C语言</a></strong></p>
+<p><strong><a href="https://mooc.study.163.com/learn/1000004000?tid=2402968001&_trace_c_p_k2_=5f7624144bf8407da26371858e8c8abb#/learn/announce" target="_blank" rel="noopener">C语言程序设计进阶</a></strong></p>
+<h1 id="学习Python"><a href="#学习Python" class="headerlink" title="学习Python"></a>学习Python</h1><p><strong><a href="https://www.liaoxuefeng.com/wiki/1016959663602400" target="_blank" rel="noopener">廖雪峰的官方网站Python教程</a></strong></p>
+<h1 id="学习html-css"><a href="#学习html-css" class="headerlink" title="学习html, css"></a>学习html, css</h1><p><strong><a href="https://www.runoob.com/html/html-tutorial.html" target="_blank" rel="noopener">菜鸟教程html</a></strong><br><strong><a href="https://www.runoob.com/css/css-tutorial.html" target="_blank" rel="noopener">菜鸟教程CSS</a></strong></p>
+<h1 id="学习Git"><a href="#学习Git" class="headerlink" title="学习Git"></a>学习Git</h1><p><strong><a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank" rel="noopener">廖雪峰的官方网站Git教程</a></strong></p>
+<h1 id="学习javascript"><a href="#学习javascript" class="headerlink" title="学习javascript"></a>学习javascript</h1><p><strong><a href="https://www.liaoxuefeng.com/wiki/1022910821149312" target="_blank" rel="noopener">廖雪峰的官方网站javascript教程</a></strong></p>
+<h1 id="学习Linux"><a href="#学习Linux" class="headerlink" title="学习Linux"></a>学习Linux</h1><p>网易云课堂<br><strong><a href="https://study.163.com/course/courseMain.htm?courseId=232007" target="_blank" rel="noopener">Linux 入门基础</a></strong></p>
+]]></content>
       <categories>
         <category>推荐</category>
       </categories>
