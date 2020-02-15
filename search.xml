@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>javaweb工程:实现简单的登录注册</title>
-    <url>/2020/02/13/javalogin/</url>
+    <url>/archives/35abd75.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>最近开始学习servlet相关的知识，跟着教程实现了简单的前后端交互：登录注册功能。</p>
 <p>要实现这个小项目，你需要知道：</p>
 <p><strong>java基础知识以及java面向对象编程</strong></p>
@@ -41,7 +41,7 @@
   </entry>
   <entry>
     <title>这是介绍</title>
-    <url>/2020/02/11/intro/</url>
+    <url>/archives/282471dd.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>某</center>
 
 <center>大一CS新生的</center>
@@ -74,7 +74,7 @@
   </entry>
   <entry>
     <title>各类教程推荐</title>
-    <url>/2020/02/10/recommend/</url>
+    <url>/archives/8de73196.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>持续更新中</strong></p>
 <h1 id="学习java"><a href="#学习java" class="headerlink" title="学习java"></a>学习java</h1><p><strong><a href="https://mooc.study.163.com/learn/1000002014?tid=2402969001&_trace_c_p_k2_=f584749a51944472a873d5a28f306530#/learn/announce" target="_blank" rel="noopener">程序设计入门—Java语言</a></strong></p>
 <p><strong><a href="https://mooc.study.163.com/learn/1000004001?tid=2402970001&_trace_c_p_k2_=c4d497296c1b49fb986068d56e0e5af5#/learn/announce" target="_blank" rel="noopener">Java语言程序设计进阶</a></strong>  (面向对象编程)</p>
@@ -98,7 +98,7 @@
   </entry>
   <entry>
     <title>留言板</title>
-    <url>/2020/02/10/mboard/</url>
+    <url>/archives/c0297c2d.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="可以在此处留言"><a href="#可以在此处留言" class="headerlink" title="可以在此处留言"></a>可以在此处留言</h4><p>说啥都行</p>
 ]]></content>
       <categories>
@@ -107,7 +107,7 @@
   </entry>
   <entry>
     <title>开始</title>
-    <url>/2020/02/05/hello-world/</url>
+    <url>/archives/fb201a71.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="2020-2-6"><a href="#2020-2-6" class="headerlink" title="2020/2/6"></a>2020/2/6</h1><p>porridgexj搭建了</p>
 <p>Blog</p>
 ]]></content>
