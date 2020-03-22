@@ -25,8 +25,8 @@
 
 <p>配置四个全局变量，使MyContextListener.java这个监听程序可以获取数据库相关信息创建数据库对象<br><img src="https://s1.ax1x.com/2020/03/22/8oibdS.png" alt="avatar"></p>
 <p>mysql参数的注意事项详见上面的注意事项1。</p>
-<p>其中有几个小细节，mysql的数据库url直接写入.xml文件是会报错的，原因是其中的 <strong>&amp;</strong> 需要转义成 &amp;(去掉中文)amp;。<br>上文提供的代码已经改过了，不需要再改。</p>
-<p>其他.xml需要转义的字符可以参考 <strong><a href="https://blog.csdn.net/ADjky/article/details/74278903" target="_blank" rel="noopener">网站</a></strong></p>
+<p>其中有几个小细节，mysql的数据库url直接写入.xml文件是会报错的，原因是其中的 <strong>&amp;</strong> 需要转义成 &amp;去掉amp;。<br>上文提供的代码已经改过了，不需要再改。</p>
+<p>其他.xml需要转义的字符可以参考 <strong><a href="https://www.cnblogs.com/city-light/p/8919900.html" target="_blank" rel="noopener">网站</a></strong></p>
 <h4 id="如何用Tomcat将项目部署到本地服务器上"><a href="#如何用Tomcat将项目部署到本地服务器上" class="headerlink" title="如何用Tomcat将项目部署到本地服务器上:"></a>如何用Tomcat将项目部署到本地服务器上:</h4><p>首先选中下方server标签，若无Tomcat服务器则右键空白区域new一个server。<br><img src="https://s1.ax1x.com/2020/03/22/8oi8K0.png" alt="avatar"><br>接着右键添加好的服务器，选择<strong>Add and Remove</strong>添加项目即可。<br><img src="https://s1.ax1x.com/2020/03/22/8oiGrV.png" alt="avatar"><br>启动项目之前，确保项目WEB-INF目录下的web.xml中<br><img src="https://s1.ax1x.com/2020/03/22/8oil2n.png" alt="avatar"></p>
 <p>第一个页面设置为你想要出现的html页面(优先顺序为从上到下)</p>
 <p>确保文件都保存后，点击页面右下方的startserver即可部署项目到本地服务器，<br><img src="https://s1.ax1x.com/2020/03/22/8oiQ8s.png" alt="avatar"></p>
