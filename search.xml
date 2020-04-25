@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>AJAX-异步的局部网页刷新</title>
+    <url>/archives/35abd75.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>（这篇文章还没有准备好）</p>
+]]></content>
+      <categories>
+        <category>javascript</category>
+      </categories>
+  </entry>
+  <entry>
     <title>javaweb工程:实现简单的登录注册</title>
     <url>/archives/35abd75.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>最近开始学习servlet相关的知识，跟着教程实现了简单的前后端交互：登录注册功能。</p>
@@ -67,6 +76,7 @@
 <p>虽然现在内容还不是很有用    </p>
 <p>但是以后会好起来哒！    </p>
 <p>希望里面的东西可以帮到你。    </p>
+<p><strong><a href="https://aidn.jp/mikutap/" target="_blank" rel="noopener">Mikutap</a></strong></p>
 ]]></content>
       <categories>
         <category>杂谈</category>
