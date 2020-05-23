@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>AJAX-异步的局部网页刷新</title>
-    <url>/archives/35abd75.html</url>
+    <title>echarts</title>
+    <url>/archives/35704d68.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong><a href="https://www.runoob.com/echarts/echarts-install.html" target="_blank" rel="noopener">ECharts</a></strong></p>
+]]></content>
+      <categories>
+        <category>javascript</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ajax</title>
+    <url>/archives/c5a6a264.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>（这篇文章还没有准备好）</p>
 ]]></content>
       <categories>
