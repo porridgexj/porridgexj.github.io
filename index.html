@@ -2,10 +2,45 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>page</title>
+  <title>router</title>
+  <style>
+    body, html {
+      height: 100%;
+      width: 100%;
+      padding: 0;
+      margin: 0;
+    }
+    .wrapper {
+      background-color: cornflowerblue;
+    }
+    .button {
+      width: 345px;
+      height: 345px;
+      background-color: rgba(255, 255, 255, 0.85);
+      border-radius: 50%;
+      border: 6px solid rgb(3, 85, 238);
+      cursor: pointer;
+    }
+    .fill-contain {
+      height: 100%;
+      width: 100%;
+    }
+    .flex-center {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .text {
+      color: black;
+      font-size: 55px;
+    }
+  </style>
 </head>
 <body>
-  <span>等待跳转...</span>
-  <button onClick="location.href='http://baidu.com'">跳转</button>
+  <div class="wrapper fill-contain flex-center">
+    <div class="button flex-center" onClick="location.href='http://101.34.20.23'">
+      <span class="text">跳转</span>
+    </div>
+  </div>
 </body>
 </html>
